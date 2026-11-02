@@ -8,7 +8,7 @@ class HospitalManager:
         self.connection = connector.connect(
             host="localhost",
             user="root",
-            password="YOUR_PASSWORD",
+            password="Aswin@2005",
             database="hospital_db"
         )
         print("connected successfully")
